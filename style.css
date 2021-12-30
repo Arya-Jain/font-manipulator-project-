@@ -15,7 +15,8 @@
 
 .copy_right_footer{
     bottom: 0;
-    color:white;
+    color:blue;
+    font-weight: bold;
     background-color: aqua;
     z-index: 10px;
     position: fixed;
@@ -29,5 +30,10 @@ canvas{
     border: 5px solid white;
     border-radius: 20px;
     box-shadow: 5px 5px 5px grey;
+    margin: 5px;
+}
+
+video{
+    border-radius: 20px;
 }
 
